@@ -1,4 +1,4 @@
-# SIA-Projekt
+# SIA-Project
 The project idea for the SIA was to build a beverage vending machine that dispenses shots (drinks with a small filling quantity, mostly alcoholic). The customer 
 customer selects on a display which of the four predefined types of beverage 
 his drink should consist of. He confirms his selection on the display by 
