@@ -25,3 +25,5 @@ Informatics is composed of the following three software parts:
 * "SIA" Library 
 
 In order to provide the consumer with the best possible experience, we have chosen to use  a Human Machine Interface with a touch display. Since the project will be based on an Arduino, but an appealing HMI with the Arduino with the Arduino is more difficult to implement, the HMI was written in Java and loaded onto a Raspberry Pi 3b+ with the use of the program Processing. The Arduino Sketch and the "SIA" library was written in c++. 
+
+[Code of the Human Machine Interface](./)
