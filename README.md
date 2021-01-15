@@ -15,7 +15,7 @@ is updated. Once the price has been paid, the cup is filled.
 
  * Last Update: June 29, 2020
  * Version: see filename
-    * a is flag for Arduino code
+    * a is indicator for Arduino code
     * p is indicator for Processing Code
     
 # Informatics
@@ -26,8 +26,8 @@ Informatics is composed of the following three software parts:
 
 In order to provide the consumer with the best possible experience, we have chosen to use  a Human Machine Interface with a touch display. Since the project will be based on an Arduino, but an appealing HMI with the Arduino with the Arduino is more difficult to implement, the HMI was written in Java and loaded onto a Raspberry Pi 3b+ with the use of the program Processing. The Arduino Sketch and the "SIA" library was written in c++. 
 
-[Arduino Code](https://github.com/storxel/SIA-Projekt/blob/main/SIA.Beta.2.3.a.ino)
+[Arduino Code](https://github.com/storxel/SIA-Project/blob/main/SIA.Beta.2.3.a.ino)
 
-[Code of the Human Machine Interface](https://github.com/storxel/SIA-Projekt/tree/main/SIA.Beta.2.3.p)
+[Code of the Human Machine Interface](https://github.com/storxel/SIA-Project/tree/main/SIA.Beta.2.3.p)
 
 [SIA Library](https://github.com/storxel/SIA-Library)
